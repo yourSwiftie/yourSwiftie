@@ -1,6 +1,6 @@
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ChenYu
+    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ChenYu
   </h1>
    <p align="center">A developer from China 👨‍💻</p>
 </p>
